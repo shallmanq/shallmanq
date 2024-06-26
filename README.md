@@ -16,6 +16,11 @@
 - Serverless architecture
 - Performance optimization in React and Next.js applications
 
+- ## 📫 How to Reach Me
+
+- **Email**: [shallmanq@gmail.com](mailto:shallmanq@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/shallman-quashie-67b70513/))
+
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
