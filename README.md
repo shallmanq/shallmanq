@@ -28,6 +28,7 @@ Freelance Web designer | Software Engineer | Artist
 
 I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
 
+
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
