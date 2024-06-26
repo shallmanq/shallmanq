@@ -19,7 +19,10 @@
 - ## 📫 How to Reach Me
 
 - **Email**: [shallmanq@gmail.com](mailto:shallmanq@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/shallman-quashie-67b70513/]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/shallman-quashie-67b70513/))
+- **LinkedIn**: [Shallman Quashie
+Shallman Quashie
+Freelance Web designer | Software Engineer | Artist
+](https://www.linkedin.com/in/shallman-quashie-67b70513/)
 
 - ## 🤝 Let's Connect
 
