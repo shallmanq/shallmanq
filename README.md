@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Designer/Developer)`**
 
+**`I am a versatile Web Designer, UI/UX Designer, and Web Developer with a passion for creating beautiful and functional web applications. With a strong foundation in both design and development, I aim to bridge the gap between aesthetics and technology.`**
+
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
