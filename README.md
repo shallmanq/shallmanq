@@ -9,7 +9,6 @@
 - Building responsive and dynamic web applications
 - Exploring advanced UI/UX design techniques
 - Experimenting with Three.js for 3D web experiences
-- Contributing to open-source projects
 
 ### 🌱 What I'm Learning
 
