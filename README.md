@@ -1,5 +1,7 @@
 # Hi there, I'm Shall 👋🏼
 
+**`Digital Craftsman (Designer/Developer)`**
+
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
