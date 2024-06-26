@@ -19,7 +19,11 @@
 - ## 📫 How to Reach Me
 
 - **Email**: [shallmanq@gmail.com](mailto:shallmanq@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/shallman-quashie-67b70513/))
+- **LinkedIn**: [https://www.linkedin.com/in/shallman-quashie-67b70513/]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/shallman-quashie-67b70513/))
+
+- ## 🤝 Let's Connect
+
+I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
