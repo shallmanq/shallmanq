@@ -4,6 +4,19 @@
 
 **`I am a versatile Web Designer, UI/UX Designer, and Web Developer with a passion for creating beautiful and functional web applications. With a strong foundation in both design and development, I aim to bridge the gap between aesthetics and technology.`**
 
+### 🔭 What I'm Working On
+
+- Building responsive and dynamic web applications
+- Exploring advanced UI/UX design techniques
+- Experimenting with Three.js for 3D web experiences
+- Contributing to open-source projects
+
+### 🌱 What I'm Learning
+
+- Advanced TypeScript patterns
+- Serverless architecture
+- Performance optimization in React and Next.js applications
+
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
