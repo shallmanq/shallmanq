@@ -29,7 +29,7 @@ Freelance Web designer | Software Engineer | Artist
 I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
 
 
-- ## Tech Stack 🚀
+- ## 🚀 Tech Stack
 
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
@@ -57,7 +57,7 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 
 
 
-- ## Tools I Use ✨
+- ## ✨ Tools I Use 
 
 <img align='left' src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
 
@@ -66,7 +66,7 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 
 
 
-- ## Github Stats 😎
+- ## 😎 Github Stats
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
