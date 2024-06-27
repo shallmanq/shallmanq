@@ -2,10 +2,8 @@
 
 **`Digital Craftsman (Designer/Developer)`**
 
-$${\color{red}Red}$$
-
-#### A blue heading
-{: .blue}
+$${\color{red}I am a versatile Web Designer, UI/UX Designer, and Web Developer with a passion for creating beautiful and functional web applications. With a strong foundation in both design and development, I aim to bridge the gap between aesthetics and technology.
+}$$
 
 I am a versatile Web Designer, UI/UX Designer, and Web Developer with a passion for creating beautiful and functional web applications. With a strong foundation in both design and development, I aim to bridge the gap between aesthetics and technology.
 
