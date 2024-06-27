@@ -28,11 +28,13 @@ Freelance Web designer | Software Engineer | Artist
 
 I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
 
+- ## Github Stats 😎
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
 
+- ## Tech Stack 🚀
 
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
@@ -48,12 +50,6 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 
 <img align='left' src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 
-<img align='left' src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-
-<img align='left' src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-
-<img align='left' src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-
 <img align='left' src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 
 <img align='left' src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -61,4 +57,14 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 <img align='left' src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
 <img align='left' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img align='left' src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+
+- ## Tools I Use ✨
+
+<img align='left' src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+
+<img align='left' src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
+
 
