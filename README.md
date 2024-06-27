@@ -55,8 +55,9 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 
 <img align='left' src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
 
-(/)
-
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
 - ## ✨ Tools I Use 
 
@@ -64,8 +65,9 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 
 <img align='left' src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
-(/)
-
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
 - ## 😎 Github Stats
 
