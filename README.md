@@ -23,6 +23,7 @@
 Shallman Quashie
 Freelance Web designer | Software Engineer | Artist
 ](https://www.linkedin.com/in/shallman-quashie-67b70513/)
+- **Instagram**: [Shallman Art](https://www.instagram.com/shallmanart/)
 
 - ## 🤝 Let's Connect
 
