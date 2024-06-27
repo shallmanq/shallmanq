@@ -24,6 +24,10 @@ Shallman Quashie
 Freelance Web designer | Software Engineer | Artist
 ](https://www.linkedin.com/in/shallman-quashie-67b70513/)
 
+- ## 🤝 Let's Connect
+
+I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
+
 - ## 🚀 Tech Stack
 
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -62,9 +66,7 @@ Freelance Web designer | Software Engineer | Artist
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
 
-- ## 🤝 Let's Connect
 
-I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
 
 
 
