@@ -59,7 +59,9 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 &nbsp;<br>
 &nbsp;<br>
 
-- ## ✨ Tools I Use 
+- ## ✨ Tools I Use
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 <img align='left' src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
 
