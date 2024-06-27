@@ -24,11 +24,6 @@ Shallman Quashie
 Freelance Web designer | Software Engineer | Artist
 ](https://www.linkedin.com/in/shallman-quashie-67b70513/)
 
-- ## 🤝 Let's Connect
-
-I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
-
-
 - ## 🚀 Tech Stack
 
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -55,22 +50,21 @@ I’m open to collaborating on interesting projects and ideas. Feel free to reac
 
 <img align='left' src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
 
-
-
 - ## ✨ Tools I Use 
 
 <img align='left' src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
 
 <img align='left' src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
-
-
-
 - ## 😎 Github Stats
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=shallmanq&show_icons=true&theme=radical" />
 
 <img align='left' width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallmanq&layout=compact" />
+
+- ## 🤝 Let's Connect
+
+I’m open to collaborating on interesting projects and ideas. Feel free to reach out to me via any of the platforms listed above.
 
 
 
