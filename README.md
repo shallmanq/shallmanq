@@ -23,6 +23,7 @@ I am a versatile Web Designer, UI/UX Designer, and Web Developer with a passion 
 Shallman Quashie
 Freelance Web designer | Software Engineer | Artist
 ](https://www.linkedin.com/in/shallman-quashie-67b70513/)
+- **Portfolio**: [www.shallmanquashie.com](https://www.shallmanquashie.com)
 - **Instagram**: [Shallman Art](https://www.instagram.com/shallmanart/)
 
 - ## 🤝 Let's Connect
