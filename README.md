@@ -1,20 +1,20 @@
 # Hi there, I'm Shall 👋🏼
 
-**`Digital Craftsman (Designer/Developer)`**
+**`Digital Craftsman (Designer × Developer)`**
 
-I am a versatile Web Designer, UI/UX Designer, and Web Developer with a passion for creating beautiful and functional web applications. With a strong foundation in both design and development, I aim to bridge the gap between aesthetics and technology.
+I design and build scalable web apps and brands for ambitious businesses — blending code and creativity with AI-powered, SaaS-driven solutions.
 
-### 🔭 What I'm Working On
+### 🔭 What I’m Working On
 
-- Building responsive and dynamic web applications
-- Exploring advanced UI/UX design techniques
+- Developing responsive, dynamic web applications
+- Crafting intuitive, high-converting UI/UX
 - Experimenting with Three.js for 3D web experiences
 
-### 🌱 What I'm Learning
+### 🌱 What I’m Learning
 
 - Advanced TypeScript patterns
-- Serverless architecture
-- Performance optimization in React and Next.js applications
+- Serverless architecture and edge functions
+- Performance optimization in React + Next.js
 
 - ## 📫 How to Reach Me
 
